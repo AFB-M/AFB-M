@@ -1,34 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afolabi Mahmood Olalekan
-================================================================================================================================================
+<h1 align="center">Hi 👋, I'm Afolabi Mahmood Olalekan</h1>
+<h3 align="center">A passionate Data Scientist and Technical Writer from Nigeria</h3>
 
-Data Scientist • Technical Writer
----------------------------------
+<p align="left"> <a href="https://twitter.com/afb_m1" target="blank"><img src="https://img.shields.io/twitter/follow/afb_m1?logo=twitter&style=for-the-badge" alt="afb_m1" /></a> </p>
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [afolabimahmood950@gmail.com](mailto:afolabimahmood950@gmail.com)
-* 🧠  I'm learning Data science
-* 🤝  I'm open to collaborating on Machine Learning and Data science projects.
-* ⚡  I cube and I love mind games
+- 🌱 I’m currently learning **Model building and deployment**
 
-<a href="https://www.github.com/afbtech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/afbtech?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/iam_AFB" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iam_AFB?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-### Skills
+- 📝 I regularly write articles on [https://afb.hashnode.dev/](https://afb.hashnode.dev/)
 
+- 💬 Ask me about **Data Science and Technical Writing**
 
+- 📫 How to reach me **afolabimahmood950@gmail.com**
+
+- ⚡ Fun fact **I cube and I love mind games**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://dev.to/afb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afb" height="30" width="40" /></a>
+<a href="https://twitter.com/afb_m1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afb_m1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afolabi-mahmood-olalekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afolabi-mahmood-olalekan" height="30" width="40" /></a>
+<a href="https://hashnode.com/@AFB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="afb" height="30" width="40" /></a>
+<a href="https://medium.com/@afolabimahmoodolalekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afolabimahmoodolalekan" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afb-m&show_icons=true&locale=en&layout=compact" alt="afb-m" /></p>
 
-<p align="left"> <a href="https://www.github.com/AFB-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afolabi-mahmood-olalekan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@afolabimahmoodolalekan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AFB_M1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afb-m&show_icons=true&locale=en" alt="afb-m" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/afbtech"><img src="https://github-readme-stats.vercel.app/api?username=afbtech&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="afbtech's GitHub stats" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afb-m&" alt="afb-m" /></p>
