@@ -21,7 +21,7 @@
 <a href="https://dev.to/afb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afb" height="30" width="40" /></a>
 <a href="https://twitter.com/afb_m1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afb_m1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/afolabi-mahmood-olalekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afolabi-mahmood-olalekan" height="30" width="40" /></a>
-<a href="https://hashnode.com/@AFB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="afb" height="30" width="40" /></a>
+<a href="https://afb.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="afb" height="30" width="40" /></a>
 <a href="https://medium.com/@afolabimahmoodolalekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afolabimahmoodolalekan" height="30" width="40" /></a>
 </p>
 
