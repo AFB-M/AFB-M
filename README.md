@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afolabi Mahmood Olalekan</h1>
 <h3 align="center">A passionate Data Scientist and Technical Writer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/afb_m1" target="blank"><img src="https://img.shields.io/twitter/follow/afb_m1?logo=twitter&style=for-the-badge" alt="afb_m1" /></a> </p>
+<p align="left"> <a href="[[https://x.com/AFB13_]]" target="blank"><img src="https://img.shields.io/twitter/follow/afb_m1?logo=twitter&style=for-the-badge" alt="afb_m1" /></a> </p>
 
 - 🌱 I’m currently learning **Model building and deployment**
 
